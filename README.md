@@ -1,7 +1,9 @@
-# Refinnitive test by pasit tiwaratanaaungkur
-this is Section 2 
-With Q1 & Q2 Only
-Develop with nuxtjs framework
+# Refinitiv test ----  by pasit tiwaratanaaungkur
+this is Section 2 -
+
+With Q1 & Q2 Only - 
+
+Develop with nuxtjs framework -
 
 ## Build Setup
 
